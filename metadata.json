@@ -1,0 +1,11 @@
+{
+  "name": "Remix: CAN Diagnostics",
+  "description": "Web Bluetooth and Web Serial based J1939 CAN diagnostic tool oriented for mobile devices",
+  "requestFramePermissions": [
+    "bluetooth",
+    "serial"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
